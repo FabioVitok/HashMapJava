@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HashDummyTest
+comment1.params=arfs
+comment1.target=void\ main(java.lang.String[])
+comment2.params=alunos\ aluno\ valor
+comment2.target=java.util.HashMap\ verificarAdicionar(java.util.HashMap,\ java.lang.String,\ java.lang.Integer)
+numComments=3
