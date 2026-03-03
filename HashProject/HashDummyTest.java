@@ -34,6 +34,11 @@ public class HashDummyTest
        tamanho = alunos.size();
        System.out.println("Tamanho do HashMap: " + tamanho);
        System.out.println(alunos.get("Fernando"));
+       
+       for(String key : alunos.keySet()){
+           System.out.println("O valor da chave é: " + key);
+           System.out.println("E o seu valor é: " +alunos.get(key));
+       }
    }
    
    public static HashMap<String, Integer> verificarAdicionar(HashMap<String, Integer> alunos, String aluno, Integer valor){
