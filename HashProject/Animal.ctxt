@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=especie\ habilidade
+comment1.target=Animal(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEspecie()
+comment3.params=
+comment3.target=java.lang.String\ getHabilidade()
+comment4.params=especie
+comment4.target=void\ setEspecie(java.lang.String)
+comment5.params=habilidade
+comment5.target=void\ setHabilidade(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

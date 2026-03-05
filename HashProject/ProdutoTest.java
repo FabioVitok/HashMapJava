@@ -19,7 +19,7 @@ public class ProdutoTest
         
         for(String key : produtos.keySet()){
            System.out.println("O valor da chave é: " + key);
-           System.out.println("E o seu produto é: " +produtos.get(key));
+           System.out.println("E o seu produto é: " + produtos.get(key));
        }
     }
 }
